@@ -19,7 +19,11 @@
 | AustLit | Senior Project Officer  | 2012 - 2013 |
 
 ## Skills
-
+- Certified Software Carpentry / Data Carpentry instructor (2015).
+- Certified Software Carpentry instructor trainer (2016). 
+- Weekly Internet columnist, *The Courier-Mail*, 2001-2006.
+- Weaver’s Web columnist for the ALIA journal, *inCite*, 1997-2001. 
+- Experienced book and copy editor.
 - OpenRefine
 - Markdown
 - Git/GitHub
@@ -31,15 +35,9 @@
 - Member of the Collections Advisory Group, State Library of Queensland, 2006-2009.
 
 ## Awards
+- Fellow, Python Software Foundation.
 - ALIA Queensland Library Achiever of the Year, 2003.
 - Winner, Margaret Waugh Bursary, UQ Alumni Association, 2006.
-
-## Other skills
-- Certified Software Carpentry / Data Carpentry instructor (2015).
-- Certified Software Carpentry instructor trainer (2016). 
-- Weekly Internet columnist, *The Courier-Mail*, 2001-2006.
-- Weaver’s Web columnist for the ALIA journal, *inCite*, 1997-2001. 
-- Experienced book and copy editor.
 
 ## Selected publications
 - (2019) *The efficacy and usefulness of Software Carpentry training: a follow up cohort study.* MPhil Thesis, chool of ITEE, The University of Queensland. 
