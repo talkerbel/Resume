@@ -35,7 +35,7 @@
 - Member of the Collections Advisory Group, State Library of Queensland, 2006-2009.
 
 ## Awards
-- Fellow, Python Software Foundation.
+- Fellow, Python Software Foundation, 2017.
 - ALIA Queensland Library Achiever of the Year, 2003.
 - Winner, Margaret Waugh Bursary, UQ Alumni Association, 2006.
 
